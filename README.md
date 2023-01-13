@@ -8,4 +8,6 @@ Ultimately, I would like the Setup tab to take each Santa's name AND phone numbe
 
 ***This was my first project using Intellij & Maven JavaFX, so there were extra files added by Intellij that I wasn't sure if they were needed or not; I uploaded everything just to be safe.
 
+The Secret_Santa_2023.jar file should be executable on a computer! Enjoy!
+
 Thank you for reading! Have a wonderful day! :)
