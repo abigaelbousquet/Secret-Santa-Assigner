@@ -6,7 +6,7 @@ I hope that this program can help our family and many others (immediate families
 
 Ultimately, I would like the Setup tab to take each Santa's name AND phone number and the Assignments tab to be replaced by a feature that would distribute everyone's assignments via an automated text to the phone number on file for ultimate secrecy, maybe along with a reminder of the gift $ limit.
 
-***This was my first project using Intellij & Maven JavaFX, so there were extra files added by Intellij that I wasn't sure if they were needed or not; I uploaded everything just to be safe.
+***This was my first project using Intellij & Maven JavaFX, so my apologies if the formatting is weird. Myself and a few JavaFX forums taught me everything I knew about JavaFX at this point.
 
 ***I am still working on creating a single, universally executable file for this project, stay tuned!
 
