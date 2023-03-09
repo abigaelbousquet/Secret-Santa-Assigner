@@ -8,6 +8,6 @@ Ultimately, I would like the Setup tab to take each Santa's name AND phone numbe
 
 ***This was my first project using Intellij & Maven JavaFX, so my apologies if the formatting is weird. Myself and a few JavaFX forums taught me everything I knew about JavaFX at this point.
 
-***I am still working on creating a single, universally executable file for this project, stay tuned!
+***I am still working on creating a single, universally executable file for this project, stay tuned! For now, feel free to watch the screen recording of me using it!
 
 Thank you for reading! Have a wonderful day! :)
